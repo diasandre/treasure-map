@@ -1,5 +1,5 @@
-# treasure-map
- is your way to find netflix ids
+# `treasure-map`
+ treasure-map is a regex script that returns Netflix IDS and episode names. Weigh anchor! Yo-ho-ho!☠️
  
  ## How works?
  - open netflix
