@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test-junit"))
-    implementation("com.google.code.gson:gson:2.8.6")
+    implementation("com.google.code.gson:gson:2.8.7")
 }
 
 tasks.test {
